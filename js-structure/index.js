@@ -3,12 +3,12 @@
 import { authors } from "./utils/authors.js";
 import { createHeader } from "./component/header/header.js";
 import { createCard } from "./component/card/card.js";
-import kika from "./utils/other.js";
+/* import kika from "./utils/other.js";
 
-/* console.log(`my name is ${name}`);
+console.log(`my name is ${name}`);
 sayHello();
-kika(); */
-console.log(kika);
+kika();
+console.log(kika); */
 
 /**
  * Cipher
